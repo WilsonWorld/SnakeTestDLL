@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  IntVector2.cpp
+  Snake.cpp
+  SnakeAPI.cpp
+  Generating Code...
+     Creating library C:\Users\Wilson\Desktop\School\Semester 6\Adv Programming\ICA\INCA1StartPoint\SnakeVSProj\x64\Debug\SnakePlugin.lib and object C:\Users\Wilson\Desktop\School\Semester 6\Adv Programming\ICA\INCA1StartPoint\SnakeVSProj\x64\Debug\SnakePlugin.exp
+  Snake.vcxproj -> C:\Users\Wilson\Desktop\School\Semester 6\Adv Programming\ICA\INCA1StartPoint\SnakeVSProj\x64\Debug\SnakePlugin.dll
+          1 file(s) copied.
